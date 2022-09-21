@@ -3,7 +3,7 @@ SmartFarmer IoT Enabled Smart Farming Application
 
 
 Team Leader
-Allwin Joshua y
+Allwin Joshua Y
 
 
 Team Members
